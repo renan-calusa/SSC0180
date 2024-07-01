@@ -87,6 +87,7 @@ void checkPlay(int guess, int round) {
 			for (int k=0; k<4; k++) digitalWrite(leds[k], HIGH);
 			delay(100);
 			for (int k=0; k<4; k++) digitalWrite(leds[k], LOW);
+			delay(100);
 		}
 		
 		// Terminar o jogo por escolha errada
