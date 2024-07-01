@@ -5,8 +5,8 @@
 bool game_over = false;
 int* sequence;
 int round = 1;
-int leds[] = {1, 2, 3, 4} // Saidas digitais dos Leds
-int buttons[] = {5, 6, 7, 8} // Saidas digitais dos botoes
+int leds[] = {2, 3, 4, 5} // Saidas digitais dos Leds
+int buttons[] = {8, 9, 10, 11} // Saidas digitais dos botoes
 
 
 void setup() {
@@ -19,8 +19,30 @@ void setup() {
 
 void loop() {
 
-	// Verificar se o jogo acabou por numero de round ou resposta incorreta
-	if (round == MAXROUND && game_over) return; // (...)
+	// Verificar se o jogo acabou por numero de round
+	if (round == MAXROUND + 1) {
+
+		// Animacaçao de vitoria
+		
+		for (int j=0; j<3; j++) {
+			for (int i=0; i<4; i++) {
+		
+				digitalWrite(leds[i], HIGH);
+				delay(300)
+				digitalWrite(leds[i], LOW);
+				delay(300);
+			}
+		}
+		
+		free(sequence);
+		return;
+	}
+
+	// Verificar fim de jogo por resposta incorreta
+	else if (game_over) {
+		free(sequence);
+		return;
+	}
 
 	// Mostra a sequencia do proximo round
 	showSequence();
@@ -92,6 +114,7 @@ void checkPlay(int guess, int round) {
 		
 		// Terminar o jogo por escolha errada
 		game_over = true;
+		round--;
 	}
 	
 	// Caso acerte, apenas vai para o proximo round
