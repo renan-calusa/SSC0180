@@ -60,9 +60,9 @@ void showSequence() {
   for (int i=0; i<rodada; i++) {
   
     digitalWrite(leds[sequence[i]], HIGH); // Liga o led atual
-    delay(500);
+    delay(1000);
     digitalWrite(leds[sequence[i]], LOW); // Desliga o led atual
-    delay(100);
+    delay(1000);
   }
 }
 
@@ -85,10 +85,10 @@ void waitPlayer() {
           digitalWrite(leds[k], HIGH);
           delay(500);
           digitalWrite(leds[k], LOW);
-          delay(100);
           
           notPlay = false;
           answer = k;
+          break;
         }
       }
     }
