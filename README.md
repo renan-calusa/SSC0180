@@ -41,6 +41,13 @@ Total: R$53,72
 
 Projeto:
 
+
+(imagem do eagle)
+
+
+![alt text](Projeto-Fonte/fonte-img-falstad.png)
+
+
 * Link Falstad: https://tinyurl.com/2yx6b8p5
 
 
@@ -48,6 +55,9 @@ Projeto:
 
 
 [![Video1](https://img.youtube.com/vi/vt2bg8lfmSU/maxresdefault.jpg)](https://youtube.com/shorts/vt2bg8lfmSU?si=ytmtWbXtoHivT-LI)
+
+
+### Explicação:
 
 
 # Genius:
@@ -74,15 +84,15 @@ Total: R$149,66
 
                             R = (V cc - V led)/i led
 
-* pode-se calcular a resistência necessária para colocar junto do led visando impedir a queima dele. No caso, a tensão utilizada foi de   
-5V, a do led de 2V e sua corrente de 20 mA, resultando na resistência de 150 ohms.
+* pode-se calcular a resistência necessária para colocar junto do led visando impedir a queima dele. No caso, a tensão utilizada foi de 5V, a do led de 2V e sua corrente de 20 mA, resultando na resistência de 150 ohms.
 
 3. Leds coloridos: Servem para indicar a ordem em que o jogador deve apertar os botões.
 
 
 Projeto:
 
-* Link do Tinkercad: https://www.tinkercad.com/things/bYEC9kFvOmy-genius
+
+(imagem)
 
 
 ### Funcionamento: 
