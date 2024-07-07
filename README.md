@@ -2,6 +2,8 @@
 
 Relatório dos Trabalhos de Eletrônica para Computação dos alunos Arthur Domingues Rios (13731751) e Renan Sawaya Sacamoto Calusa (13672280)
 
+* As imagens dos projetos e o código utilizado estão em suas respectivas pastas
+
 
 # Fonte de Tensão Regulável (3V a 12V):
 
@@ -38,13 +40,6 @@ Total: R$53,72
 7. Potenciômetro: É uma resistência variável, então sua finalidade é ajustar a tensão na saída da fonte.
 
 Projeto:
-
-
-
-(imagem do eagle)
-
-fonte-img-falstad.png
-
 
 * Link Falstad: https://tinyurl.com/2yx6b8p5
 
@@ -86,8 +81,7 @@ Total: R$149,66
 
 Projeto:
 
-
-(imagem)
+* Link do Tinkercad: https://www.tinkercad.com/things/bYEC9kFvOmy-genius
 
 
 ### Funcionamento: 
