@@ -42,7 +42,7 @@ Total: R$53,72
 Projeto:
 
 * Link Falstad: https://tinyurl.com/2yx6b8p5
-
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/renan-calusa/SSC0180/main/Projeto-Fonte/fonte-img-falstad.png?token=GHSAT0AAAAAACUQ7S6BBAM2RMFSVL2O5OPYZUKWOVQ))
 
 ### Funcionamento:
 
