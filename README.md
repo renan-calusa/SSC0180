@@ -46,7 +46,7 @@ Total: R$53,72
 (imagem do eagle)
 
 
-![alt text](Projeto-Fonte/fonte-img-falstad.png)
+![Circuito da Fonte no Falstad](Projeto-Fonte/fonte-img-falstad.png)
 
 
 * Link Falstad: https://tinyurl.com/2yx6b8p5
@@ -96,7 +96,7 @@ Total: R$149,66
 #### Projeto:
 
 
-(imagem)
+![alt](Projeto-Genius/genius-img.png)
 
 
 ### Funcionamento: 
@@ -106,3 +106,6 @@ Total: R$149,66
 
 
 * Como mostrado no vídeo, a ideia do jogo é apertar os botões na ordem em que os leds piscam, com o máximo de 20 rodadas (no vídeo foram apenas 3 apenas para mostrar como funciona a animação de vitória).
+
+
+### Explicação:
