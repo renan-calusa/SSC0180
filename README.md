@@ -43,7 +43,7 @@ Projeto:
 
 (imagem do eagle)
 
-
+fonte-img-falstad.png
 
 
 * Link Falstad: https://tinyurl.com/2yx6b8p5
