@@ -2,7 +2,7 @@
 
 Relatório dos Trabalhos de Eletrônica para Computação dos alunos Arthur Domingues Rios (13731751) e Renan Sawaya Sacamoto Calusa (13672280)
 
-* As imagens dos projetos e o código utilizado estão em suas respectivas pastas
+*As imagens dos projetos e o código utilizado estão em suas respectivas pastas*
 
 
 # Fonte de Tensão Regulável (3V a 12V):
@@ -74,7 +74,8 @@ Total: R$149,66
 
                             R = (V cc - V led)/i led
 
-* pode-se calcular a resistência necessária para colocar junto do led visando impedir a queima dele. No caso, a tensão utilizada foi de 5V, a do led de 2V e sua corrente de 20 mA, resultando na resistência de 150 ohms.
+pode-se calcular a resistência necessária para colocar junto do led visando impedir a queima dele. No caso, a tensão utilizada foi de   
+5V, a do led de 2V e sua corrente de 20 mA, resultando na resistência de 150 ohms.
 
 3. Leds coloridos: Servem para indicar a ordem em que o jogador deve apertar os botões.
 
