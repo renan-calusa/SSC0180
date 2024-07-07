@@ -8,7 +8,7 @@ Relatório dos Trabalhos de Eletrônica para Computação dos alunos Arthur Domi
 # Fonte de Tensão Regulável (3V a 12V):
 
 
-#### Lista de componentes:
+### Lista de componentes:
 * Ponte de Diodo - R$3,90
 * Transformador de razão ≈ 7.05 espiras (25V)
 * Capacitor 470uF - R$1,50
@@ -24,7 +24,7 @@ Relatório dos Trabalhos de Eletrônica para Computação dos alunos Arthur Domi
 
 Total: R$53,72
 
-#### Resumo:
+### Resumo:
 1. Transformador: O transformador foi usado para transformar a voltagem de 127V para aproximadamente 25V.
 
 2. Ponte de diodo: A ponte formada por 4 diodos tem a finalidade de aproveitar os dois ciclos da fonte, tanto a positiva quanto a negativa (cada diodo gasta 0.7 volts, portanto o gasto da ponte é 1.4 volts).
@@ -40,7 +40,7 @@ Total: R$53,72
 7. Potenciômetro: É uma resistência variável, então sua finalidade é ajustar a tensão na saída da fonte.
 
 
-#### Projeto:
+### Projeto:
 
 
 (imagem do eagle)
@@ -64,7 +64,7 @@ Total: R$53,72
 # Genius:
 
 
-#### Lista de Componentes:
+### Lista de Componentes:
 * Arduino UNO - R$108,00
 * Led Vermeho - R$0,50
 * Led Amarelo - R$0,50
@@ -79,7 +79,7 @@ Total: R$53,72
 Total: R$149,66
 
 
-#### Resumo:
+### Resumo:
 
 
 1. Resistores de 10k ohms: São os chamados Pull Down, que servem para manter o nível da porta em “LOW” enquanto o botão na for pressionado.
@@ -93,7 +93,7 @@ Total: R$149,66
 3. Leds coloridos: Servem para indicar a ordem em que o jogador deve apertar os botões.
 
 
-#### Projeto:
+### Projeto:
 
 
 ![alt](Projeto-Genius/genius-img.png)
