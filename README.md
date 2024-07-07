@@ -2,7 +2,7 @@
 
 Relatório dos Trabalhos de Eletrônica para Computação dos alunos Arthur Domingues Rios (13731751) e Renan Sawaya Sacamoto Calusa (13672280).
 
-*As imagens dos projetos e o código utilizado estão em suas respectivas pastas (além do resistor de 120 que não aguentou a potência e queimou).*
+*As imagens dos projetos e o código utilizado no arduíno estão em suas respectivas pastas.*
 
 
 # Fonte de Tensão Regulável (3V a 12V):
