@@ -43,7 +43,10 @@ Total: R$53,72
 ### Projeto:
 
 
-(imagem do eagle)
+![Eagle_Componentes](Projeto-Fonte/paths_components.png)
+
+
+![Eagle Path](Projeto-Fonte/paths.png)
 
 
 ![Circuito da Fonte no Falstad](Projeto-Fonte/fonte-img-falstad.png)
