@@ -61,7 +61,6 @@ Total: R$53,72
 [![Video1](https://img.youtube.com/vi/vt2bg8lfmSU/maxresdefault.jpg)](https://youtube.com/shorts/vt2bg8lfmSU?si=ytmtWbXtoHivT-LI)
 
 
-### Explicação:
 
 
 # Genius:
